@@ -1,0 +1,20 @@
+{
+    "name": "warapitiya.neptune",
+    "title": "Neptune",
+    "version": "1.0.0",
+    "homepage": "https://github.com/warapitiya/Neptune",
+    "description": "Take your code to another world.",
+    "keywords": [
+    "theme",
+    "neptune",
+    "dark",
+    "night"
+  ],
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "author": "Malindu Warapitiya <warapitiya93@gmail.com>",
+    "license": "MIT"
+}
